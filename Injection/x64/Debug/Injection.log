@@ -1,0 +1,3 @@
+﻿  inj.cpp
+C:\Users\bobro\source\repos\OSISP_3\Injection\inj.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Injection.vcxproj -> C:\Users\bobro\source\repos\OSISP_3\x64\Debug\Injection.exe

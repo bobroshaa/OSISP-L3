@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Создается библиотека C:\Users\bobro\source\repos\OSISP_3\Debug\MemoryDll.lib и объект C:\Users\bobro\source\repos\OSISP_3\Debug\MemoryDll.exp
+  MemoryDll.vcxproj -> C:\Users\bobro\source\repos\OSISP_3\Debug\MemoryDll.dll
